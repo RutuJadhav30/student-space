@@ -24,11 +24,6 @@ Students Space is a comprehensive online platform designed to enhance the academ
 4. Configure the database connection in the PHP files (usually found in the `includes` folder).
 5. Launch the application by accessing `index.php` in your web browser.
 
-## Project Team
-
-- [Govardhane Nitin] - Project Lead
-- [Shimpi Apurva] - Project Collaborator
-
 ## Contributions
 
 We welcome contributions to improve and expand Students Space. Feel free to open issues, suggest enhancements, or create pull requests.
